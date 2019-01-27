@@ -1,0 +1,130 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+/*CUSTOMIZED CSS*/
+
+/*SET THE BACKGROUND IMAGE TO A NECKTIE COLLECTION*/
+body {
+    padding-top:50px;
+    padding-bottom:20px;
+    background-color:#D46A6A;
+    color:#FFFFFF;
+    background-image:url("../images/Neckties.PNG");
+    background-size:cover;
+}
+
+/*CHANGE THE NAVBAR COLOR; LINKS ALIGNED RIGHT USING BOOTSTRAP CLASS*/
+.navbar-custom{
+    background-color:#000000;
+}
+
+/*ADD TRANSLUCENT BACKGROUND TO JUMBOTRON*/
+.jumbo-custom{
+    margin-top:20px;
+    color:#FFFFFF;
+    background:rgba(0, 0, 0, 0.4); 
+    text-align:center;
+}
+
+/*CHANGE DESCRIPTIVE FONT OF HEADING (ONLY) IN JUMBOTRON*/
+.lead-custom{
+    font-family:'Indie Flower', cursive;
+}
+
+/*CAROUSEL BEGIN*/
+/*CUSTOMIZE THE CAROUSEL*/
+.carousel-inner{
+    margin-top:60px;
+    margin-bottom:60px;
+}
+
+/*CUSTOMIZE THE CAROUSEL*/
+.carousel-control.left{
+    background-image:none;
+}
+
+/*CUSTOMIZE THE CAROUSEL*/
+.carousel-control.right{
+    background-image:none;
+}
+
+/*CUSTOMIZE THE CAROUSEL QUOTES*/
+.carousel-quotes{
+    font-style:italic;
+    font-size:20px;
+    text-align:center;
+    color:#FFFFFF;
+    font-weight:bold;
+}
+
+/*CUSTOMIZE THE CAROUSEL QUOTE NAMES*/
+.carousel-names{
+    padding-top:7px;
+    text-align:center;
+    font-size:20px;
+    color:#FFFFFF;
+}
+/*CAROUSEL END*/
+
+/*ADD TRANSLUCENT BACKGROUND TO LINKS AT BOTTOM OF HOME INDEX; CHANGE DESCRIPTIVE FONT*/
+.link-padding{
+    background-color:rgba(0, 0, 0, 0.4);
+    font-family:'Indie Flower', cursive;
+}
+
+/*CREATE A TRANSLUCENT DIV FOR THE MY ___ PAGES*/
+.my-items-indices{
+    background-color:rgba(0,0,0,0.5);
+    padding-right:30px;
+    padding-bottom:50px;
+    padding-left:30px;
+}
+
+/*CUSTOMIZE THE BUTTONS*/
+.btn{
+    font-family:'Indie Flower', cursive;
+
+}
+
+/*ADD SOME SPACE BETWEEN THE GALLERY ITEMS ON THE MY ___ PAGES*/
+.gallery-padding{
+    padding-top:30px;
+}
+
+/*SET THE IMAGE DIMENSIONS FOR THE PHOTO PROPERTIES*/
+img{
+    height:100px;
+    width:100px;
+}
+
+/*MODIFY THE FONT ON OTHER PAGES*/
+.etc-font{
+    font-family:'Indie Flower', cursive;
+    color:#FFFFFF;
+}
+
+.alter-ego{
+    color:#000000;
+}
+
+/*END CUSTOMIZED CSS*/
+
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 280px;
+}

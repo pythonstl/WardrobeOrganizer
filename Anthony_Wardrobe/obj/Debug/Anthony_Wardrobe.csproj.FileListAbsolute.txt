@@ -1,0 +1,90 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\csc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\System.Collections.Immutable.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\vbc.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\VBCSCompiler.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\roslyn\VBCSCompiler.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Anthony_Wardrobe.dll.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Anthony_Wardrobe.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Anthony_Wardrobe.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Antlr3.Runtime.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\EntityFramework.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Microsoft.Web.Infrastructure.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Newtonsoft.Json.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.Helpers.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.Mvc.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.Optimization.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.Razor.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.Deployment.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.Razor.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\WebGrease.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\EntityFramework.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.Helpers.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.Mvc.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.Optimization.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.Razor.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.Deployment.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.Razor.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Antlr3.Runtime.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\Newtonsoft.Json.xml
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\obj\Debug\Anthony_Wardrobe.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\obj\Debug\Anthony_Wardrobe.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\obj\Debug\Anthony_Wardrobe.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\EntityFramework.SqlServer.dll
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Anthony_Wardrobe\Anthony_Wardrobe\bin\EntityFramework.SqlServer.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\csc.exe
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\System.Collections.Immutable.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\System.Reflection.Metadata.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\vbc.exe
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\VBCSCompiler.exe
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\roslyn\VBCSCompiler.exe.config
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Anthony_Wardrobe.dll.config
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Anthony_Wardrobe.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Anthony_Wardrobe.pdb
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Antlr3.Runtime.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\EntityFramework.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\EntityFramework.SqlServer.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Microsoft.Web.Infrastructure.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Newtonsoft.Json.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.Helpers.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.Mvc.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.Optimization.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.Razor.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.Deployment.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.Razor.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\WebGrease.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\EntityFramework.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\EntityFramework.SqlServer.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.Helpers.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.Mvc.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.Optimization.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.Razor.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.Deployment.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\System.Web.WebPages.Razor.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Antlr3.Runtime.pdb
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\bin\Newtonsoft.Json.xml
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\obj\Debug\Anthony_Wardrobe.csprojAssemblyReference.cache
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\obj\Debug\Anthony_Wardrobe.csproj.CoreCompileInputs.cache
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\obj\Debug\Anthony_Wardrobe.csproj.CopyComplete
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\obj\Debug\Anthony_Wardrobe.dll
+C:\Portfolio\Wardrobe\MVCWardrobe\Anthony_Wardrobe\obj\Debug\Anthony_Wardrobe.pdb

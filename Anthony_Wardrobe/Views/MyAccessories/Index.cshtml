@@ -1,0 +1,90 @@
+﻿@model IEnumerable<Anthony_Wardrobe.Models.MyAccessory>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<div class="my-items-indices">
+
+    <h1 class="etc-font text-center">MY ACCESSORIES</h1>
+
+    <h4 class="etc-font text-center">
+        @Html.ActionLink("Create New", "Create", null, new { style = "color:white" })
+    </h4>
+
+    @*CREATE A RESPONSIVE GRID WITH ITEM DETAILS.*@
+    <div class="row">
+        @foreach (var item in Model)
+        {
+            <div class="col-sm-6 col-md-4 gallery-padding">
+                <div class="thumbnail">
+                    <div class="caption text-center">
+                        <h3>@Html.DisplayFor(modelItem => item.Name).ToString().ToUpper()</h3>
+                        <img src="@Html.DisplayFor(modelItem => item.Photo)" />
+                        <h4>@Html.DisplayFor(modelItem => item.AccessoryType.AccessoryType1).ToString().ToUpper()</h4>
+                        <h5>Color(s): @Html.DisplayFor(modelItem => item.Color)</h5>
+                        <h5>Season(s): @Html.DisplayFor(modelItem => item.Season)</h5>
+                        <h5>Occasion(s): @Html.DisplayFor(modelItem => item.Occasion)</h5>
+                        <p>@Html.ActionLink("Details", "Details", new { id = item.MyAccessoryID }, new { role = "button", @class = "btn btn-primary" })</p>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+
+
+
+    @*SAVE THE DEFAULT TABLE HERE IN CASE IT IS NEEDED LATER.*@
+    @*<table class="table">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Name)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Photo)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Color)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Season)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.Occasion)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.AccessoryType.AccessoryType1)
+                </th>
+                <th></th>
+            </tr>
+
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    <img src="@Html.DisplayFor(modelItem => item.Photo)" />
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Color)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Season)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Occasion)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.AccessoryType.AccessoryType1)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id=item.MyAccessoryID }) |
+                    @Html.ActionLink("Details", "Details", new { id=item.MyAccessoryID }) |
+                    @Html.ActionLink("Delete", "Delete", new { id=item.MyAccessoryID })
+                </td>
+            </tr>
+        }
+        </table>*@

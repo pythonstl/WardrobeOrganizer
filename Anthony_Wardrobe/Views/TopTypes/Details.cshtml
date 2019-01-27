@@ -1,0 +1,26 @@
+﻿@model Anthony_Wardrobe.Models.TopType
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Top Type</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.TopType1)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TopType1)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.TopID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

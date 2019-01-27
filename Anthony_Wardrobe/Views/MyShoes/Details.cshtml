@@ -1,0 +1,66 @@
+﻿@model Anthony_Wardrobe.Models.MySho
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div class="my-items-indices">
+
+    <h2 class="etc-font">Details</h2>
+
+    <dl class="dl-horizontal alter-ego thumbnail">
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Photo)
+        </dt>
+
+        <dd>
+            <img src="@Html.DisplayFor(model => model.Photo)" />
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Color)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Color)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Season)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Season)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Occasion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Occasion)
+        </dd>
+
+        <!-- CHANGE THE DISPLAY OF SHOETYPE1 -->
+        <dt>
+            @Html.LabelFor(model => model.ShoeType.ShoeType1, "Shoe Type")
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ShoeType.ShoeType1)
+        </dd>
+    </dl>
+
+    <p class="etc-font">
+        @Html.ActionLink("Edit", "Edit", new { id = Model.MyShoeID }, new { style = "color:white" }) |
+        @Html.ActionLink("Back to List", "Index", null, new { style = "color:white" })
+    </p>
+</div>

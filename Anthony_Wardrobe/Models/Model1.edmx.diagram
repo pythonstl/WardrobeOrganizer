@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="99c3fc5d06f94359a6a5c07f5ee58994" Name="Diagram1">
+        <EntityTypeShape EntityType="ClothingDatabaseModel.AccessoryType" Width="1.5" PointX="5.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClothingDatabaseModel.BottomType" Width="1.5" PointX="5.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClothingDatabaseModel.MyAccessory" Width="1.5" PointX="8" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClothingDatabaseModel.MyBottom" Width="1.5" PointX="8" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClothingDatabaseModel.MySho" Width="1.5" PointX="3" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClothingDatabaseModel.MyTop" Width="1.5" PointX="3" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClothingDatabaseModel.ShoeType" Width="1.5" PointX="0.75" PointY="5.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClothingDatabaseModel.sysdiagram" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ClothingDatabaseModel.TopType" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <AssociationConnector Association="ClothingDatabaseModel.FK_MyAccessories_AccessoryTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="ClothingDatabaseModel.FK_MyBottoms_BottomTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="ClothingDatabaseModel.FK_MyShoes_ShoeTypes" ManuallyRouted="false" />
+        <AssociationConnector Association="ClothingDatabaseModel.FK_MyTops_TopTypes" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
